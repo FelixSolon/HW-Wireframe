@@ -1,0 +1,152 @@
+* {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	box-sizing: border-box;
+
+}
+
+article {
+	background-color: #777;
+	color: #ebebeb;
+	padding: .25rem;
+	margin: 0;
+
+}
+
+aside {
+	background-color: #ebebeb;
+	float: right;
+	width: 42%;
+	color: #777;
+	padding: 18px;
+	margin: 9px;
+	margin-bottom: 18px;
+	display: block;
+	height: 295px;
+
+}
+
+body {
+	
+	width: 960px;
+	background-color: #777;
+	color: #ebebeb;
+	padding: 1rem;
+	margin: .5rem;
+}
+
+footer {
+	background-color: #ebebeb;
+	color: #777;
+	padding: 18px;
+	margin: .5rem;
+	display: block;
+	overflow: auto;
+	width: 906px;
+	clear: both;
+
+}
+
+h1 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h3 { 
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h4 { 
+    display: block;
+    font-size: 1em;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h5 { 
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h6 { 
+    display: block;
+    font-size: .67em;
+    margin-top: 2.33em;
+    margin-bottom: 2.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+header {
+	background-color: #ebebeb;
+
+	color: #777;
+	padding: 18px;
+	margin: .5rem;
+}
+
+nav {
+	background-color: #ebebeb;
+	color: #777;
+	padding: 18px;
+	margin: .5rem;
+}
+
+section {
+	background-color: #ebebeb;
+	width: 495px;
+	float: left;
+	color: #777;
+	padding: 0px 12px 9px 12px;
+	margin: .5rem;
+
+}
+
+.clear {
+	background-color: #ebebeb;
+	color: #777;
+	padding: 18px;
+	margin: .5rem;
+}
+
+.efficient{
+	background-color:#ebebeb;
+	color: #ebebeb;
+	font-size: 18px;
+}
+
+#padded {
+	padding: 16px;
+	margin: 16px;
+}
